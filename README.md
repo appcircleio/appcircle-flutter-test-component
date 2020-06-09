@@ -4,7 +4,7 @@ This component allows you to run [Flutter unit tests](https://flutter.dev/docs/c
 
 
 Required Input Variables
-- `$AC_FLUTTER_PROJECT_PATH`: Specifies the root of your Flutter project where your pubspec.yaml file exist.
+- `$AC_FLUTTER_PROJECT_DIR`: Specifies the root of your Flutter project where your pubspec.yaml file exist.
 
 Optional Input Variables
 - `$AC_FLUTTER_TEST_EXTRA_ARGS`: Specifies custom arguments. Defaults to: `--machine`
