@@ -1,6 +1,6 @@
 # Appcircle Flutter Test
 
-This component allows you to run [Flutter unit tests](https://flutter.dev/docs/cookbook/testing/unit/introduction#run-tests-in-a-terminal). 
+This component allows you to run [Flutter unit tests](https://flutter.dev/docs/cookbook/testing/unit/introduction#run-tests-in-a-terminal). Please note that it requires a preceding Flutter Install step to run.
 
 
 Required Input Variables
